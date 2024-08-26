@@ -1,2 +1,2 @@
 * linguist-vendored
-*.golang linguist-vendored=false
+*.go linguist-vendored=false
