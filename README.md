@@ -18,7 +18,7 @@ Library for working with cache
 ...
 ```
 
-## Example
+## Example usage:
 
 ```golang
 package main
